@@ -1,4 +1,4 @@
-import  static org.assertj.core.api.Assertions.*;
+import static org.assertj.core.api.Assertions.*;
 
 import com.practice.components.Car;
 import com.practice.components.Cars;
